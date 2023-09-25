@@ -1,0 +1,5 @@
+print("we will learn---")
+print("Clone Repo")
+print("Create branch and update branch")
+print("Merge, Pull,Push,Fetch")
+print("Resolve Conflicts")
